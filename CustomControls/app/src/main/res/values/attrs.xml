@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ControlLogin">
+        <attr name="login_text" format="string"></attr>
+        <attr name="text_edit" format="string"></attr>
+    </declare-styleable>
+</resources>
